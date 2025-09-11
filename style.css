@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 60px;
+  border: 2px solid black;
+}
+hr {
+  padding: 1px;
+  background-color: black;
+}
